@@ -1,6 +1,9 @@
 Data Processing Final Project Description
+
 This project investigates the question: Can traffic collision severity in California be predicted using data on crash conditions and contextual factors? To answer this, the project uses a dataset of traffic collisions in California, stored in an SQLite database (swirts.sqlite). The data was obtained from Kaggle (https://www.kaggle.com/datasets/alexgude/california-traffic-collision-data-from-switrs).
+
 This data sets contains information on over 9 million collisions which occurred between 2001 and 2021 and contains information such as the time and date of the collision, the weather, the road type, the lighting, and so on. A detailed description of features can be found on https://tims.berkeley.edu/help/SWITRS.php.
+
 In the first part of the project, the plotly module is used to create interactive visualizations that explore trends in collision frequency over time and across different severity levels. First a time series plot is created using plotly.lines and secondly a histogram of different collision severities was created using plotly.histogram. In the second part, a sequential neural network is developed using TensorFlow and Keras to classify collisions by severity based on features 16 features such as weather conditions, time of day, number of vehicles involved, and more. I first start with a simple model and increase the number of layers to increase complexity to improve prediction and add regularization to avoid overfitting.
 
 

@@ -1,3 +1,9 @@
 # Data-Processing-Final-Project
 
-The code for this project is in the file final_project_notebook and a preview of the code and output can be seen in Githut. The interactive plots can not be seen in the notebook file. To visualize the graphs there are two options. Firstly, the notebook can be dowloaded and run. If you want to run the whole notebook the data must be dowloaded from Kaggle (https://www.kaggle.com/datasets/alexgude/california-traffic-collision-data-from-switrs) and be saved in the same file as the notebook final_project_notebook.ipynb. Secondly, the plots have been uploaded seperatly under the names time_plot.html and severity_plot.html and can be viewed this way. 
+The code for this project is in the file final_project_notebook and a preview of the code and output can be seen in Githut. The interactive plots can not be seen in the notebook file. To visualize the graphs the final_project_notebook.ipynb needs be run of a computer. 
+
+To run the notebook do the following:
+
+Step 1: Dowload the data at https://www.kaggle.com/datasets/alexgude/california-traffic-collision-data-from-switrs 
+Step 2: Dowload the notebook final_project_notebook.ipynb and save it in the same folder containing the data previously dowloaded form kaggled
+Step 3: Run the notebook and enjoy!

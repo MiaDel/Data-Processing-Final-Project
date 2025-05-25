@@ -8,4 +8,6 @@ Step 1: Dowload the data at https://www.kaggle.com/datasets/alexgude/california-
 
 Step 2: Dowload the notebook final_project_notebook.ipynb and save it in the same folder containing the data previously dowloaded form kaggled
 
-Step 3: Run the notebook and enjoy!
+Step 3: Make sure you have the required modules installed. Required packages: sqlite3, pandas, plotly, numpy, scipy, tensorflow, keras, seaborn, matplotlib, sklearn
+
+Step 4: Run the notebook and enjoy!

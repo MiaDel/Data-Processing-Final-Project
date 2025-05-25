@@ -4,7 +4,7 @@ The code for this project is in the file final_project_notebook and a preview of
 
 To run the notebook do the following:
 
-Step 1: Dowload the data at https://www.kaggle.com/datasets/alexgude/california-traffic-collision-data-from-switrs 
+Step 1: Dowload the data at https://www.kaggle.com/datasets/alexgude/california-traffic-collision-data-from-switrs and unzip the file 
 
 Step 2: Dowload the notebook final_project_notebook.ipynb and save it in the same folder containing the data previously dowloaded form kaggled
 
